@@ -1,5 +1,6 @@
 import java.io.*;
-public class Area_Volume {
+public class Area_Volume
+{
 int l,b,h;
 public Area_Volume(int l,int k) throws Exception //Constructor
 {
